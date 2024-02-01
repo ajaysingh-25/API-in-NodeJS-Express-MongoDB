@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const cors = require("cors");
 const bodyParser = require("body-parser");
-const router = require("../backend/routes.js")
+const router = require("./routes.js")
 const frontend_port = "http://localhost:4200";
 const backend_port_no = 3000;
 
