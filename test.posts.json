@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "65bb264f23e727bcc8a346e4"
+  },
+  "title": "Ephemeral Serenity",
+  "content": "In a secluded glade, sunlight filtered through ancient trees, casting a gentle glow on the tranquil scene. Butterflies danced around vibrant wildflowers as a babbling brook whispered its secrets. Here, time stood still, and the world outside melted away, offering a brief escape into nature's ephemeral serenity.",
+  "username": "ajaysingh_25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb26d823e727bcc8a346e6"
+  },
+  "title": "Stardust Reverie",
+  "content": "In the cosmic tapestry of the night sky, 'Stardust Reverie' unfolded. A dreamer named Celestia discovered a celestial gateway, transcending to realms where constellations whispered tales of forgotten galaxies. Guided by astral spirits, she danced through cosmic wonders, leaving trails of stardust in her ephemeral journey through the cosmos.",
+  "username": "pooja2s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb274323e727bcc8a346e8"
+  },
+  "title": "Chronicles of Luminous Dreams",
+  "content": "In the \"realm of slumber\", a realm known as the Dreamweave, Luna, a weaver of dreams, wove stories with threads of stardust. Each night, she painted ethereal landscapes where imagination soared. As dreamers slept, they embarked on fantastical journeys, encountering mythical creatures and unlocking the Chronicles of Luminous Dreams.",
+  "username": "pooja2s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb277423e727bcc8a346ea"
+  },
+  "title": "Serenade of the Whispering Breeze",
+  "content": "In a forgotten valley, where time treaded lightly, the Whispering Breeze held tales of old. It carried ancient melodies, sung by the rustling leaves and murmuring brooks. As it weaved through the valley, it unfurled stories of love, resilience, and the enduring magic hidden within the Serenade of the Whispering Breeze.",
+  "username": "ajaysingh_25",
+  "__v": 0
+}]
